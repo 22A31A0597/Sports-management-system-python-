@@ -44,9 +44,3 @@ Add User login system for admin and coach roles.
 
 🧑‍💻 Author
 Pallavi Yerra
-
-
-Feel free to reach out for suggestions or collaborations!
-🪶 License
-
-This project is open-source and available under the MIT License.
