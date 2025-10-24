@@ -18,8 +18,8 @@ It helps coaches, administrators, and sports clubs to store and organize sports-
 
 💾 Data Storage – Uses file handling / database (depending on your code) to store data permanently.
 
-
 Programming Language: Python
+
 📘 Usage Instructions
 
 Choose options from the main menu to:
@@ -42,22 +42,10 @@ Include Player statistics visualization using matplotlib.
 
 Add User login system for admin and coach roles.
 
-🤝 Contributing
-
-Contributions are welcome!
-If you'd like to improve this project:
-
-Fork the repo.
-
-Create a new branch (feature-branch).
-
-Commit your changes.
-
-Push and submit a Pull Request.
-
 🧑‍💻 Author
-
 Pallavi Yerra
+
+
 Feel free to reach out for suggestions or collaborations!
 🪶 License
 
